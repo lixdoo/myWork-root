@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="myWork-core/src/main/java"/>
+	<classpathentry kind="src" path="myWork-core/src/test/java"/>
+	<classpathentry kind="src" path="myWork-model/src/main/java"/>
+	<classpathentry kind="src" path="myWork-model/src/test/java"/>
+	<classpathentry kind="src" path="myWork-utils/src/main/java"/>
+	<classpathentry kind="src" path="myWork-utils/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
